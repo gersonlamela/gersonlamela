@@ -1,6 +1,6 @@
 
 <h2>Olá Eu sou o Gerson Lamela! </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **SobreMim.js**
