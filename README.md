@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**gersonlamela/gersonlamela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Olá Eu sou o Gerson Lamela! </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **SobreMim.js**
+
+```javascript
+const Gerson  = {
+    pronouns: "Gerson" | "Lamela",
+    contact: "gersonlamela7@gmail.com",
+    code: ["JS", "HTML", "CSS", "NODE, MySQL"],
+    askMeAbout: ["Web Dev", "Tech", "Gaming"],
+    technologies: {
+        databases: ["MySql"]
+    },
+ 
+};
+```
+
+---
+
+
+<!--START_SECTION:waka-->
+
+
+
+📊  
+
+```text
+⌚︎ Location: Europe/PT
+
+💻 Operating Systems: 
+Windows                  A carregar      █████████████████████████   100.0%
+            
+
+```
+
+
+<!--END_SECTION:waka-->
+
+
