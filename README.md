@@ -9,7 +9,7 @@
 const Gerson  = {
     pronouns: "Gerson" | "Lamela",
     contact: "gersonlamela7@gmail.com",
-    code: ["JS", "HTML", "CSS", "NODE, MySQL"],
+    code: ["JS", "HTML", "CSS", "NODE,"LUA", MySQL"],
     askMeAbout: ["Web Dev", "Tech", "Gaming"],
     technologies: {
         databases: ["MySql"]
