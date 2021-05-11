@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
-  Olá sou o Gerson, sou <strong>Desenvolvedor de Back-End</strong>. Estou disponível para realizar projetos, caso precise contratar meu serviço entre em contato.
+  Olá sou o Gerson, sou <strong>Desenvolvedor de Back-End</strong>. Estou disponível para realizar projetos, caso precise entre em contacto comigo.
 </p>
 
 <p align="left">
