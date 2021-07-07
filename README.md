@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou tirar duvidas), não hesite em entrar em contacto comigo: ⤵️
+  💌 Se desejas realizar um projeto comigo (ou tirar duvidas), não hesites em entrar em contacto comigo: ⤵️
 </p>
 
 <p align="left">
