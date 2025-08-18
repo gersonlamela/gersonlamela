@@ -1,5 +1,12 @@
 <h2 align="left">Hi 👋! My name is Gerson Lamela and I'm a Software Engineer from Portugal</h2>
 
+### 🌐 Portfolio  
+<div align="center">
+  <a href="https://gersonlamela.vercel.app" target="_blank">
+   <img src="https://img.shields.io/badge/View%20Professional%20Portfolio-1E3A8A?style=for-the-badge&logo=briefcase&logoColor=white" height="40" alt="portfolio button" />
+  </a>
+</div>
+
 ###
 
 <div align="center">
