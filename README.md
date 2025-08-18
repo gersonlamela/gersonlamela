@@ -13,7 +13,7 @@
 ###
 
 ### 🚀 About Me  
-- 👨‍💻 Software Engineer with a strong focus on **Fullstack JavaScript development**  
+- 👨‍💻 Software Engineer with a strong focus on **Fullstack development**  
 - 🛠️ Experienced in building scalable **SaaS platforms, web applications, and APIs**  
 - 💡 Skilled at designing, developing, and deploying production-ready solutions using **modern frameworks and cloud technologies**  
 - 🌍 Open to **international opportunities and freelance collaborations**  
